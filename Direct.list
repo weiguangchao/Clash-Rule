@@ -5,5 +5,3 @@ DST-PORT,27017
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,byteoversea.com
-
-IP-CIDR,192.168.193.0/24
