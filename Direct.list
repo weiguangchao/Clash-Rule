@@ -1,8 +1,2 @@
 # Direct
-
 DST-PORT,22
-DST-PORT,27017
-DST-PORT,9993
-
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,nijigem.by
