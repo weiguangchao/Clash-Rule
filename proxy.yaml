@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,52pokemon.cc
