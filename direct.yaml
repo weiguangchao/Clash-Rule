@@ -1,8 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,cursor.sh
-  - DOMAIN-SUFFIX,cursor.com
-  - DOMAIN-SUFFIX,cursorapi.com
-  - DOMAIN-SUFFIX,cursor-cdn.com
-  # - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-KEYWORD,cursor
   - DST-PORT,22
   - DST-PORT,27017
