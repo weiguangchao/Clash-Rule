@@ -1,4 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,cursor
+  - DOMAIN-KEYWORD,parsec
   - DST-PORT,22
   - DST-PORT,27017
