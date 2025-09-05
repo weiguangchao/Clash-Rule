@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,parsec.app
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,lightsoft.tech
   - DST-PORT,22
   - DST-PORT,27017
   - DST-PORT,3306
